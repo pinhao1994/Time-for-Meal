@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time for meal (Store)</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="whose_meal">Whose Meal : </string>
+	<string name="cancel_btn">Cancel</string>
+	<string name="enter_btn">Enter</string>
+	<string name="clear_btn">Clear All</string>
+</resources>

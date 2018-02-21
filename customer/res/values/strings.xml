@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time for meal(Customer)</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_picknum">Pick up number!</string>
+    <string name="title_activity_client_main_result">ClientMainResult</string>
+    <string name="now_number_text">Now Number : </string>
+    <string name="title_activity_pick_number">PickNumber</string>
+   	<string name="restaurant_number_text">Restaurant id :  </string>
+   	<string name="cancel_btn">Cancel</string>
+   	<string name="enter_btn">Enter</string>
+   	<string name="your_number_text">Your Number :  </string>
+   	<string name="slogan">Welcome! 貝恩 Pasta!</string>
+   	<string name="btn_finish">Finish! Goodbye!</string>
+   	<string name="gotMeal_btn">Got the Meal!!</string>
+   
+</resources>

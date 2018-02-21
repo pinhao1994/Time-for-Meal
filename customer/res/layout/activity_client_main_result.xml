@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:paddingLeft="16dp"
+		android:paddingRight="16dp"
+		android:orientation="vertical"
+		android:background= "#CDFEFF">
+	
+  
+    	<TextView
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:gravity="center"
+        	android:textSize="24sp"
+        	android:text="@string/your_number_text" 
+        	/>
+
+   	 	<TextView
+       	 	android:id="@+id/your_number_text"
+       	 	android:gravity="center"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content" 
+        	android:textSize="140sp"
+        	android:textColor="#FFBB73"
+        	/>
+  
+
+	<ImageView 
+		android:id="@+id/imageview"
+		android:layout_width="fill_parent"
+		android:layout_height="200dp"
+		android:src="@drawable/logo"
+		android:scaleType="centerCrop"
+		/>
+	
+	<Button 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:onClick="gotMeal"
+	    android:text="@string/gotMeal_btn"
+	    />
+
+</LinearLayout>
